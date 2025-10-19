@@ -1,0 +1,8 @@
+crewai
+fastapi
+uvicorn
+requests
+beautifulsoup4
+serpapi
+python-dotenv
+google-genai
